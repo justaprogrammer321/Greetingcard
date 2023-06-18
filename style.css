@@ -1,0 +1,13 @@
+#myDiv {
+  width: 720px;
+  height: 1280px;
+  background-color: lightgray;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 24px;
+}
+
+button {
+  margin-top: 10px;
+}
